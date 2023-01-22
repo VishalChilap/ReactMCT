@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.body-container{
+  margin: 20px 50px;
+  height: 100vh;
+}
+
+.button{
+  margin: 20px 0px;
+}
+
+.button button{
+  margin-right: 20px;
+}
+
+.form-check-label{
+  margin-left: 5px;
+}
